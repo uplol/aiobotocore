@@ -8,7 +8,7 @@ from setuptools import setup, find_packages
 install_requires = [
     # pegged to also match items in `extras_require`
     'botocore>=1.19.21',
-    'aiohttp>=3.3.1',
+    'aiohttp>=3.7.2',
     'wrapt>=1.10.10',
     'aioitertools>=0.5.1',
 ]
